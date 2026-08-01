@@ -24,13 +24,11 @@ export default function Home() {
           TTG
         </a>
         <nav aria-label="Primary navigation">
-          <a href="#gear">The Gear</a>
+          <a href="/collections">Collections</a>
           <a href="#sets">Sets</a>
-          <a href="#story">The Story</a>
+          <a href="/story">The Story</a>
         </nav>
-        <a className="header-cta" href="#gear">
-          Shop
-        </a>
+        <a className="header-cta" href="#gear">Shop</a>
       </header>
 
       <section className="hero" id="top">
@@ -101,6 +99,7 @@ export default function Home() {
             Coordinated shirts, shorts, and headwear shaped as complete streetwear systems.
             Every mark has a role. Every piece belongs.
           </p>
+          <a className="primary-button" href="/collections">View Collections</a>
         </div>
         <div className="sets-frame">
           <span>SET CAMPAIGN IMAGE</span>
@@ -110,7 +109,7 @@ export default function Home() {
       <section className="brand-filter">
         <p>THIS IS FOR THE ONES WHO</p>
         <h2>GOT TESTED.<br />SHOWED UP.<br />STAYED THEMSELVES.</h2>
-        <a className="light-button" href="#gear">You&apos;ll know if it&apos;s yours</a>
+        <a className="light-button" href="/story">Read the Story</a>
       </section>
 
       <section className="email-section">
@@ -128,9 +127,9 @@ export default function Home() {
       <footer>
         <div className="footer-brand">TOUGH TIMEZ GEAR</div>
         <div className="footer-links">
-          <a href="#story">About</a>
+          <a href="/story">About</a>
+          <a href="/collections">Collections</a>
           <a href="#gear">Shipping</a>
-          <a href="#gear">Returns</a>
           <a href="https://www.instagram.com/toughtimesgear/" target="_blank" rel="noreferrer">Instagram</a>
         </div>
         <p>Founded in Pomona. Established in Santa Ana, California.</p>
