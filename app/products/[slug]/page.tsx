@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
 const products = {
@@ -16,11 +15,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
   return (
     <main className="inner-page product-page">
-      <header className="site-header">
-        <Link className="brand-mark" href="/">TTG</Link>
-        <nav><Link href="/collections">Collections</Link><Link href="/story">Story</Link><Link href="/media">Media</Link></nav>
-        <Link className="header-cta" href="/collections">Back</Link>
-      </header>
       <section className="product-detail-shell">
         <div className="product-gallery">
           <div className="product-detail-image product-detail-image-main"><span>01 / FRONT</span><strong>PRODUCT IMAGE</strong></div>
