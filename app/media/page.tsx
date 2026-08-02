@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 const archiveGroups = [
   ["01", "Interviews", "Founder conversations, brand explanations, and appearances that document the thinking behind Tough Timez Gear."],
   ["02", "Commercials", "Original promotional work, campaign footage, and short-form pieces that show how the brand has presented itself over time."],
@@ -11,11 +9,6 @@ const archiveGroups = [
 export default function MediaPage() {
   return (
     <main className="inner-page archive-page">
-      <header className="site-header">
-        <Link className="brand-mark" href="/">TTG</Link>
-        <nav><Link href="/collections">Collections</Link><Link href="/story">Story</Link><Link href="/media">Media</Link></nav>
-        <Link className="header-cta" href="/">Home</Link>
-      </header>
       <section className="inner-hero archive-hero">
         <p className="inner-kicker">The Record</p>
         <h1>Media<br />+ Archive</h1>
