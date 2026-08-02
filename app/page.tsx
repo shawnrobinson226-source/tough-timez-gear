@@ -22,16 +22,6 @@ const products = [
 export default function Home() {
   return (
     <main>
-      <header className="site-header">
-        <a className="brand-mark" href="#top" aria-label="Tough Timez Gear home">TTG</a>
-        <nav aria-label="Primary navigation">
-          <a href="/collections">Collections</a>
-          <a href="/story">Story</a>
-          <a href="/media">Media</a>
-        </nav>
-        <a className="header-cta" href="#gear">Shop</a>
-      </header>
-
       <section className="hero" id="top">
         <div className="hero-grain" aria-hidden="true" />
         <div className="hero-copy">
