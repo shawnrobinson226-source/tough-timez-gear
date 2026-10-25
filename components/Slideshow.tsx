@@ -4,8 +4,8 @@ import { useEffect, useState } from "react";
 import Picture from "@/components/Picture";
 import type { PictureData } from "@/lib/images";
 
-// Home slideshow: slides stack in one grid cell so the frame keeps the tallest slide's
-// natural ratio; autoplays like live and pauses on hover/focus.
+// Home slideshow: slides sit side by side in a track that slides horizontally, so the
+// frame keeps the tallest slide's natural ratio; autoplays like live and pauses on hover/focus.
 export default function Slideshow({ slides }: { slides: PictureData[] }) {
   const [active, setActive] = useState(0);
   const [paused, setPaused] = useState(false);
@@ -25,9 +25,9 @@ export default function Slideshow({ slides }: { slides: PictureData[] }) {
       onFocus={() => setPaused(true)}
       onBlur={() => setPaused(false)}
     >
-      <div className="slideshow__track">
+      <div className="slideshow__track" style={{ transform: `translateX(-${active * 100}%)` }}>
         {slides.map((s, i) => (
-          <div key={i} className="slideshow__slide" aria-hidden={i !== active} data-active={i === active}>
+          <div key={i} className="slideshow__slide" aria-hidden={i !== active}>
             <Picture data={s} className="slideshow__image" />
           </div>
         ))}
