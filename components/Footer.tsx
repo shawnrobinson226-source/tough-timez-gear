@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SocialIcon } from "@/components/Icons";
+import SocialLinks from "@/components/SocialLinks";
 import { site } from "@/lib/data";
 
 // The live cart count is session state; with no cart yet it is always 0.
@@ -34,16 +34,7 @@ export default function Footer() {
           ))}
         </ul>
         <nav aria-label="Social links">
-          <ul className="social-icons">
-            {footer.social.map((s) => (
-              <li key={s.title}>
-                {/* Placeholder until the owner supplies real URLs (docs/TODO-owner-decisions.md). */}
-                <a href="#" title={s.title}>
-                  <SocialIcon name={s.title} />
-                </a>
-              </li>
-            ))}
-          </ul>
+          <SocialLinks social={footer.social} />
         </nav>
         <div className="footer__tagline">{footer.tagline}</div>
       </div>

@@ -8,6 +8,12 @@ import * as cheerio from "cheerio";
 const BASE = "https://www.toughtimezgear.com";
 const UA = { "user-agent": "Mozilla/5.0 (ttg-parity-import)" };
 
+// Real social URLs supplied by the owner (docs/TODO-owner-decisions.md). Icons without
+// an entry here stay placeholders.
+const OWNER_SOCIAL_URLS = {
+  Instagram: "https://www.instagram.com/toughtimezgear/",
+};
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // Sequential and spaced out; backs off when the store rate-limits (HTTP 429).
@@ -102,9 +108,13 @@ async function main() {
         .get(),
       categories: links($, ".footer__pages--categories a"),
       pages: links($, ".footer__pages--pages a"),
-      // Live hrefs are Big Cartel placeholders; rendered as "#" until the owner supplies real URLs.
+      // Live hrefs are Big Cartel placeholders; icons render "#" until the owner supplies a real URL.
       social: $("footer .social-icons a")
-        .map((_, a) => ({ title: $(a).attr("title"), liveHref: $(a).attr("href") }))
+        .map((_, a) => {
+          const title = $(a).attr("title");
+          const href = OWNER_SOCIAL_URLS[title];
+          return { title, liveHref: $(a).attr("href"), ...(href ? { href } : {}) };
+        })
         .get(),
       tagline: $(".footer-custom-content").first().text(),
     },

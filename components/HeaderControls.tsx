@@ -2,10 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
-import { ChevronDown, CloseIcon, MenuIcon, SearchIcon, SocialIcon } from "@/components/Icons";
+import { ChevronDown, CloseIcon, MenuIcon, SearchIcon } from "@/components/Icons";
+import SocialLinks from "@/components/SocialLinks";
 import type { NavLink } from "@/lib/data";
 
-type Social = { title: string };
+type Social = { title: string; href?: string };
 
 // Left side of the header: menu button (opens the navigation modal) and the Shop dropdown.
 export function HeaderNav({
@@ -119,16 +120,7 @@ export function HeaderNav({
               ))}
             </ul>
           </nav>
-          <ul className="social-icons">
-            {social.map((s) => (
-              <li key={s.title}>
-                {/* Placeholder until the owner supplies real URLs (docs/TODO-owner-decisions.md). */}
-                <a href="#" title={s.title}>
-                  <SocialIcon name={s.title} />
-                </a>
-              </li>
-            ))}
-          </ul>
+          <SocialLinks social={social} />
         </div>
       </div>
     </div>

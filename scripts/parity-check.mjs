@@ -80,7 +80,12 @@ if (!pages["/"].includes("youtube-nocookie.com/embed/Az__nXcGUWo")) fail("home v
 const slideAlts = $home(".slideshow img").map((_, i) => $home(i).attr("alt")).get();
 if (slideAlts.join() !== site.home.slideshow.map((s) => s.alt).join()) fail("slideshow alt text differs");
 if ($home(".header__logo img").attr("alt") !== site.layout.logo.alt) fail("logo alt differs");
-if ($home(".social-icons a").filter((_, a) => $home(a).attr("href") !== "#").length) fail("social links are not placeholders");
+for (const s of site.layout.footer.social) {
+  const a = $home(`footer .social-icons a[title='${s.title}']`);
+  if (a.attr("href") !== (s.href ?? "#")) fail(`${s.title} footer link: expected ${s.href ?? "#"}, got ${a.attr("href")}`);
+  if (s.href && (a.attr("target") !== "_blank" || a.attr("rel") !== "noopener noreferrer"))
+    fail(`${s.title} footer link: missing target/rel`);
+}
 
 for (const c of site.categories) {
   const $ = cheerio.load(pages[`/category/${c.permalink}`]);

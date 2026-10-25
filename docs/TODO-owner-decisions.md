@@ -23,8 +23,11 @@ inert until the owner decides.
 ## Links and integrations
 
 5. **Social links are Big Cartel placeholders.** Live hrefs are `toughtimezgear.instagram.com/bigcartel`,
-   `stantimez.facebook.com/bigcartel` and `toughtimezgear.youtube.com/@BigCartelDotCom`. The three icons
-   render with `href="#"` until real Instagram, Facebook and YouTube URLs are supplied.
+   `stantimez.facebook.com/bigcartel` and `toughtimezgear.youtube.com/@BigCartelDotCom`.
+   - Instagram: **resolved 2026-10-25.** Links to https://www.instagram.com/toughtimezgear/ (new tab,
+     `rel="noopener noreferrer"`), set in `scripts/import-pages.mjs` (`OWNER_SOCIAL_URLS`) and `data/site.json`.
+   - Facebook: **open.** Renders `href="#"` until the real URL is supplied.
+   - YouTube: **open.** Renders `href="#"` until the real URL is supplied.
 6. **Add to cart is TEMPORARY.** It links to `{STORE_BASE_URL}/product/{slug}` (set once in
    `lib/config.ts`, default `https://www.toughtimezgear.com`), sending shoppers to the live Big Cartel
    product page to buy. A real cart/checkout integration needs a decision.
