@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T09:47:17.293Z",
+  "fetchedAt": "2026-10-25T10:09:49.949Z",
   "metadata": {
     "title": "www.toughtimezgear.com",
     "description": "Tough Timez gear, the brand that provides the style to express No matter what life throws at you , STAY FRESH .",
@@ -31,6 +31,313 @@
         "type": null
       }
     ]
+  },
+  "routeMeta": {
+    "/": {
+      "title": "www.toughtimezgear.com",
+      "description": "Tough Timez gear, the brand that provides the style to express No matter what life throws at you , STAY FRESH .",
+      "ogImage": "https://assets.bigcartel.com/account_images/8133498/1408.png"
+    },
+    "/products": {
+      "title": "Products | www.toughtimezgear.com",
+      "description": "Browse all products from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/433209714/1598.png"
+    },
+    "search": {
+      "title": "Search results | www.toughtimezgear.com",
+      "description": "Browse all products from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/433209714/1598.png"
+    },
+    "/mission-statement": {
+      "title": "MISSION STATEMENT  | www.toughtimezgear.com",
+      "description": " Here ,at Tough Timez Gear our mission ,from day one, is to be inspiration ,for the human experience.Supplying you ,with all the gear ,you need ,for all your,human experiences.Tough Timez Gear symbolizes, the strength and will ,to be mentally tough .Our brand is dedicated, to providing the style to express,no...",
+      "ogImage": "https://assets.bigcartel.com/account_images/8133498/1408.png"
+    },
+    "/tough-timez-gear-media": {
+      "title": "              MEDIA  | www.toughtimezgear.com",
+      "description": "https://shoutoutatlanta.com/meet-shay-palmer-streetwear-brand-owner/",
+      "ogImage": "https://assets.bigcartel.com/account_images/8133498/1408.png"
+    },
+    "/cart": {
+      "title": "Cart | www.toughtimezgear.com",
+      "description": "View everything in your www.toughtimezgear.com cart.",
+      "ogImage": "https://assets.bigcartel.com/account_images/8133498/1408.png"
+    },
+    "/category/hats-beanies": {
+      "title": "Hats & Beanies  | www.toughtimezgear.com",
+      "description": "Browse all products in the Hats & Beanies category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/421588812/807.png"
+    },
+    "/category/tshirts": {
+      "title": "Tshirts | www.toughtimezgear.com",
+      "description": "Browse all products in the Tshirts category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/433209714/1598.png"
+    },
+    "/category/books": {
+      "title": "Books  | www.toughtimezgear.com",
+      "description": "Browse all products in the Books category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/364270921/Mockup.png"
+    },
+    "/category/women-s-tops": {
+      "title": "women's tops | www.toughtimezgear.com",
+      "description": "Browse all products in the women's tops category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/411498870/1000000287.png"
+    },
+    "/category/hoodies": {
+      "title": "HOODIES | www.toughtimezgear.com",
+      "description": "Browse all products in the HOODIES category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/392980458/HOOD_GREY_R1.png"
+    },
+    "/category/sweat-suit-combo": {
+      "title": "Sweat suit combo | www.toughtimezgear.com",
+      "description": "Browse all products in the Sweat suit combo category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/432143109/1527.png"
+    },
+    "/category/long-sleeve-tee-s": {
+      "title": "Long sleeve tee's | www.toughtimezgear.com",
+      "description": "Browse all products in the Long sleeve tee's category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/392985273/LONGSLEEVE_WHITE_R3.png"
+    },
+    "/category/shorts": {
+      "title": "Shorts | www.toughtimezgear.com",
+      "description": "Browse all products in the Shorts category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/426390579/1198.png"
+    },
+    "/category/polos": {
+      "title": "Polos  | www.toughtimezgear.com",
+      "description": "Browse all products in the Polos category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/431218110/1405.png"
+    },
+    "/category/pants": {
+      "title": "PANTS  | www.toughtimezgear.com",
+      "description": "Browse all products in the PANTS category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242707/1000000485.jpg"
+    },
+    "/category/windbreakers": {
+      "title": "WINDBREAKERS  | www.toughtimezgear.com",
+      "description": "Browse all products in the WINDBREAKERS category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242191/1000000466.jpg"
+    },
+    "/category/running-suit": {
+      "title": "RUNNING SUIT | www.toughtimezgear.com",
+      "description": "Browse all products in the RUNNING SUIT category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/415131273/1000000410.png"
+    },
+    "/category/shortsets": {
+      "title": "Shortsets | www.toughtimezgear.com",
+      "description": "Browse all products in the Shortsets category from www.toughtimezgear.com.",
+      "ogImage": "https://assets.bigcartel.com/product_images/428649627/1276.png"
+    },
+    "/product/news-anchor-tee": {
+      "title": "NEWS ANCHOR TEE | www.toughtimezgear.com",
+      "description": "Introducing the NEWS ANCHOR tee presented to you by Tough Timez Gear . The News Anchor tee highlights the fact, that we brought a character from a graphic design to life, and now that same Character lives with us in this reality . SKI MASK LARRY is the news Anchor for Newsflash.tv and he has been promoting the Tough...",
+      "ogImage": "https://assets.bigcartel.com/product_images/433209714/1598.png"
+    },
+    "/product/the-extraterrestrial-tee": {
+      "title": "THE EXTRATERRESTRIAL TEE | www.toughtimezgear.com",
+      "description": "TOUGH TIMEZ GEAR presents ... The Extraterrestrial Tee Since the truth is out, we all know when we all come home ,we all take off our masks off , and reveal . The real version of ourselves and to highlight that.We felt it was, only right ,to cook up ,a design based off, that concept. Now without further a due ,we...",
+      "ogImage": "https://assets.bigcartel.com/product_images/432256611/1531.png"
+    },
+    "/product/brand-logo-jump-suits": {
+      "title": "BRAND LOGO JUMP SUITS  | www.toughtimezgear.com",
+      "description": "Introducing The Brand logo Jump Suits from Tough Timez Gear .These Jump Suits are 100% Premium breathable cotton and all Suits are made in the USA .The Brand Logo Jump Suits are available in 3 colors Grey,Green,and black and. They are relax fit to not only give you flexibility to jump right into Fall action but to...",
+      "ogImage": "https://assets.bigcartel.com/product_images/432143109/1527.png"
+    },
+    "/product/salute-rugby": {
+      "title": "SALUTE RUGBY  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents ... The Salute Rugby with embroidered Salute soldier logo and Brand logo in DTG .This Rugby is 100% breathable cotton ,made in the USA .All Rugby's are designed to be lose fit to provide flexibility and comfort.All Salute Rugby's are available in the colors Royal Blue ,Cream sizes...",
+      "ogImage": "https://assets.bigcartel.com/product_images/431218110/1405.png"
+    },
+    "/product/life-is-tough-hoodie": {
+      "title": "LIFE IS TOUGH HOODIE | www.toughtimezgear.com",
+      "description": "Life is tough so why not show off your mental toughness by rocking the LIFE IS TOUGH hoodie from TOUGH TIMEZ GEAR",
+      "ogImage": "https://assets.bigcartel.com/product_images/392980458/HOOD_GREY_R1.png"
+    },
+    "/product/tough-long-sleeve": {
+      "title": " TOUGH LONG SLEEVE  | www.toughtimezgear.com",
+      "description": "Life is Tough is now available in Long Sleeves to keep you warm this fall and winter .",
+      "ogImage": "https://assets.bigcartel.com/product_images/392985273/LONGSLEEVE_WHITE_R3.png"
+    },
+    "/product/life-is-tough": {
+      "title": "LIFE IS TOUGH  | www.toughtimezgear.com",
+      "description": "In general life is tough so we had to reprint the LIFE IS TOUGH tee to remind you how you deal with it is more important than how tough it is .this is one of our best selling design hope you enjoy .",
+      "ogImage": "https://assets.bigcartel.com/product_images/430802520/1377.jpg"
+    },
+    "/product/salute-pullover": {
+      "title": "SALUTE RUNNING SUIT  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents ... THE SALUTE RUNNING SUIT Hit the Streets Running ,this Winter In the New Salute Running Suits, These suits are 100% premium cotton and our logo is stitched in embroidery to give that finishing touch .These running suits will not only keep you looking in style but they will also keep you...",
+      "ogImage": "https://assets.bigcartel.com/product_images/415131273/1000000410.png"
+    },
+    "/product/signature-classic-pull-over": {
+      "title": "SIGNATURE CLASSIC PULL OVER  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear has been upgraded with a new revamped look to bring forth fresh new energy . We like to introduce our New logo brand hoodie the Signature Classic Pull over .Hoodie is 100% breathable cotton made in the USA . The new logo on all hoodies is not silk screen printed . This time our logo has been...",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242263/1000000462.jpg"
+    },
+    "/product/salute-windbreakers": {
+      "title": "SALUTE WINDBREAKERS  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents ...... The Salute Windbreaker that is water resistant. Featuring a zipper pouch perfect for storing some cash and other items you don't want to carry in your pockets .This Salute Windbreaker will not only keep you warm this fall but will have you looking as cool as you wanna be .",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242191/1000000466.jpg"
+    },
+    "/product/letterman-classic-tee": {
+      "title": "LETTERMAN CLASSIC TEE | www.toughtimezgear.com",
+      "description": "Tough Timez Presents ........ The Letterman Classic Tee ,Tough Timez Gear can now be summed up with 3 Letters T.T.G .Were a brand that is constantly evolving and as we evolve. We will make our designs more simple and clean .The Letterman Classic Tee is designed to represent our brand with 3 letters vs 3 words to...",
+      "ogImage": "https://assets.bigcartel.com/product_images/426010203/1170.png"
+    },
+    "/product/letterman-tee": {
+      "title": "LETTERMAN CLASSIC | www.toughtimezgear.com",
+      "description": "Tough Timez Presents ........ The Letterman Classic ,Tough Timez Gear can now be summed up with 3 Letters T.T.G .Were a brand that is constantly evolving and as we evolve. We will make our designs more simple and clean .The Letterman Classic is designed to represent our brand with 3 letters vs 3 words to make it...",
+      "ogImage": "https://assets.bigcartel.com/product_images/425951118/1138.png"
+    },
+    "/product/campaign-tee": {
+      "title": "CAMPAIGN TEE | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents the CAMPAIGN tee.Promoting The Tough Timez Gear brand message to STAY FRESH.We wanted to create a design to, represent our brands message of : No Matter What Life Throws At You STAY FRESH.This Campaign tee is bound to spark conversations and bound to turn heads .When they see you rocking...",
+      "ogImage": "https://assets.bigcartel.com/product_images/425407200/1053.png"
+    },
+    "/product/brand-logo-short-set": {
+      "title": "BRAND LOGO SHORT SET | www.toughtimezgear.com",
+      "description": "BRAND LOGO SHORT SET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428649627/1276.png"
+    },
+    "/product/life-is-tough-short-set": {
+      "title": "LIFE IS TOUGH SHORT SET  | www.toughtimezgear.com",
+      "description": "LIFE IS TOUGH SHORT SET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428649552/1277.png"
+    },
+    "/product/silhouette-shortset": {
+      "title": "SILHOUETTE SHORTSET | www.toughtimezgear.com",
+      "description": "SILHOUETTE SHORTSET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428647164/1271.png"
+    },
+    "/product/signature-classic": {
+      "title": "LIVE BROADCAST  | www.toughtimezgear.com",
+      "description": "Live Broadcast Promo tee Available at ... toughtimezgear.com On sale for limited time only for just $19.99 . . Sign up for ... Tough Timez Gear (Referral benefits Get the chance to receive the opportunity to get ''FREE'' Tough Timez Gear every time you refer someone to. toughtimezgear.com The...",
+      "ogImage": "https://assets.bigcartel.com/product_images/422290485/840.jpg"
+    },
+    "/product/tough-timez-gear-bunch": {
+      "title": "The Salute Soldier Bunch  | www.toughtimezgear.com",
+      "description": "If you ever heard of the Brady bunch well here is The Salute Soldier Bunch We felt as a brand a little nostalgia never hurt nobody time travel back into the past with a modern spin .This design is guaranteed to be a conversation piece",
+      "ogImage": "https://assets.bigcartel.com/product_images/418007085/1000000628.png"
+    },
+    "/product/twilight-tee": {
+      "title": "Twilight Tee  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents..... The Twilight Tee Now days it's feels like we're in a twilight zone and to highlight that we felt it was only right to take you down the rabbit hole with the Tough Timez Gear twilight tee .",
+      "ogImage": "https://assets.bigcartel.com/product_images/420110862/619.png"
+    },
+    "/product/signature-classic-1": {
+      "title": "SIGNATURE CLASSIC  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents .The Signature Classic tee available in Grey and White .",
+      "ogImage": "https://assets.bigcartel.com/product_images/393041265/TSHIRT_GREY_R1.png"
+    },
+    "/product/signature-long-sleeve": {
+      "title": "SIGNATURE LONG SLEEVE  | www.toughtimezgear.com",
+      "description": "Signature Long Sleeve available in Cream and Green .",
+      "ogImage": "https://assets.bigcartel.com/product_images/393041508/LONG_SLEEVE_BLUE__R1.png"
+    },
+    "/product/salute-bucket-hat": {
+      "title": "Salute Bucket Hat  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents...... The Salute Bucket Hat ,to give you a little shade on these hot days ,in california.Perfect hat to wear at the beach or at a barbeque or even just hanging out with friends on the weekend. Get the Salute Bucket hat which is a multi functional hat for all your human actvities.",
+      "ogImage": "https://assets.bigcartel.com/product_images/421588812/807.png"
+    },
+    "/product/letterman-20": {
+      "title": "LETTERMAN 2.0  | www.toughtimezgear.com",
+      "description": "Tough Timez Presents ........ The Letterman 2.0 ,Tough Timez Gear can now be summed up with 3 Letters T.T.G .Were a brand that is constantly evolving and as we evolve. We will make our designs more simple and clean .The Letterman 2.0 is design to represent our brand with 3 letters vs 3 words to make it easy to...",
+      "ogImage": "https://assets.bigcartel.com/product_images/425977401/1158.jpg"
+    },
+    "/product/the-big-captain-cap": {
+      "title": "The Big Captain Cap  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents .... The Big Captain Cap . These are corduroy and they are snap back for good comfort fit available in red and black. Get the Big Captain Cap to represent your the captain of the ship",
+      "ogImage": "https://assets.bigcartel.com/product_images/421588473/811.png"
+    },
+    "/product/ttg-shortset": {
+      "title": "TTG SHORTSET  | www.toughtimezgear.com",
+      "description": "TTG SHORTSET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428646936/1273.png"
+    },
+    "/product/double-t-shortset": {
+      "title": "DOUBLE T SHORTSET  | www.toughtimezgear.com",
+      "description": "DOUBLE T SHORTSET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428647383/1270.png"
+    },
+    "/product/salute-shortset": {
+      "title": "SALUTE SHORTSET  | www.toughtimezgear.com",
+      "description": "SALUTE SHORTSET — www.toughtimezgear.com",
+      "ogImage": "https://assets.bigcartel.com/product_images/428647107/1272.png"
+    },
+    "/product/2-for-30-summer-deal-1": {
+      "title": "2 for $30 Summer Deal 1  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear Presents... The 2 for $30 Summer Deal 1, where you get 2 shirts, for the price of Thirty Dollars .In this deal you get, one life is Tough Shirt and one Stay Fresh shirt. All tees are a 100% premium breathable cotton made in the USA . The Life is Tough Tees ,are available in the colors (White,and...",
+      "ogImage": "https://assets.bigcartel.com/product_images/426389571/1195.png"
+    },
+    "/product/2-for-60-summer-deal-2": {
+      "title": "2 for $60 Summer Deal 2  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear Presents... The 2 for $60 Summer Deal 2, where you get 2 pair of shorts , for the price of Sixty Dollars .In this deal you get, one pair of Grey Salute Shorts and one pair of Black Salute Shorts . All shorts are a 100% premium ,breathable cotton,made in the USA . The Salute Shorts ,are available in...",
+      "ogImage": "https://assets.bigcartel.com/product_images/426390579/1198.png"
+    },
+    "/product/heatwave-shorts": {
+      "title": "Heatwave Shorts  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents ... The Heatwave Shorts to keep you cool this spring and summer .These shorts are 100% cotton and loose fit to give you some breathing room as you stay active the rest of the year .The Heatwave Shorts are available in BLACK and GREY only .",
+      "ogImage": "https://assets.bigcartel.com/product_images/421327218/798.png"
+    },
+    "/product/the-big-salute": {
+      "title": "THE BIG SALUTE  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents... THE BIG SALUTE tee, letting you know loud and clear, in a world full of lies don't be afraid to SALUTE THE TRUTH .This shirt is 100 percent breathable cotton and to, improve our quality, we decided to add a combination of embroidery for the small logo and Silk screen for the big logo...",
+      "ogImage": "https://assets.bigcartel.com/product_images/421281633/781.png"
+    },
+    "/product/tough-luv-logo-tee": {
+      "title": " LOGO TEE | www.toughtimezgear.com",
+      "description": "Introducing Tough Luv the women's collection presented to you by Tough Timez Gear . Here is the 2nd installment from the collection the logo .The Tough Luv logo tee can be worn with various pieces in your warobe these tops are great complimentary pieces .",
+      "ogImage": "https://assets.bigcartel.com/product_images/411498870/1000000287.png"
+    },
+    "/product/big-salute-shorts": {
+      "title": "BIG SALUTE Shorts  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents ... The BIG SALUTE shorts 100% breathable cotton with drawstring in two colors (BLACK/GREY ). Rock The Big Salute Shorts with your Big Salute Tee .This will be a nice little Fit to Rock this spring and summer. Tough Timez Gear will officially be providing complete outfits to making getting...",
+      "ogImage": "https://assets.bigcartel.com/product_images/421214187/772.png"
+    },
+    "/product/winnie-mandela": {
+      "title": "Winnie Mandela  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents . 1st installment from the Tough Luv collection . Introducing the Winnie Mandela one the most revolutionary women in the world .She embodies the concept of Tough Luv therefore it was only right we honor her strength and will with vintage image of her when she was young",
+      "ogImage": "https://assets.bigcartel.com/product_images/408743316/1000000137.png"
+    },
+    "/product/famous-santa-ana-tee": {
+      "title": "Famous Santa Ana Tee  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents.... The Famous Santa Ana Tee . This exclusive design was created from enjoying the vibrant city of Santa Ana and. we decided to create a tee shirt to represent that culture .Santa Ana has been good to me and this is just our way of showing our appreciation.",
+      "ogImage": "https://assets.bigcartel.com/product_images/423500715/884.jpg"
+    },
+    "/product/98-chaos-kid": {
+      "title": "98 CHAOS KID | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents.... The 98 Chaos Kid . Here at Tough Timez Gear were huge fans of the artist Banksy ,and I remember he use to go into museums and swap out mona Lisa's with his art of a happy face and they didn't notice for weeks so from that . I got the idea to do a design with a tagger, tagging on...",
+      "ogImage": "https://assets.bigcartel.com/product_images/422538780/862.png"
+    },
+    "/product/the-eyes-never-lie": {
+      "title": "THE EYES NEVER LIE  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear Presents ....THE EYES NEVER LIE Tee. This design was inspired from the Great movie Scarface and the scene where scarface and Manolo are in the car riding and scarface casually says : The eyes Chico, they never lie .Now if you pay attention that message is very powerful for the simple fact, ....",
+      "ogImage": "https://assets.bigcartel.com/product_images/418805985/509.png"
+    },
+    "/product/retro-gary": {
+      "title": "RETRO GARY  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents... The Retro Gary ,after watching the Gary Coleman documentary. We became compelled to pay homage to the late Gary Coleman and. We decided to design a Tee in honor of him with his Famous Catch phrase. Only this time remixed to say (Whatcu Talkin Bout Tough Timez Gear). This is a nostalgia...",
+      "ogImage": "https://assets.bigcartel.com/product_images/392935125/Gary+Colman+_Instagram+Post_+gray-1.png"
+    },
+    "/product/ttg-cargo-joggers": {
+      "title": "TTG  CARGO JOGGERS  | www.toughtimezgear.com",
+      "description": "Introducing the TTG CARGO JOGGERS. These are all purpose cargos that can be worn with various Tops such as..... T-shirts,Polo's,Hoodies,Jackets to complete your outfit .Get the TTG CARGO JOGGERS available in Black,Army Green,and Khaki.",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242707/1000000485.jpg"
+    },
+    "/product/bandana-p": {
+      "title": "BANDANA P | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents The Bandana P . I had the pleasure of meeting the great Prodigy in 2013 at the Tough Timez Flag ship store in Santa Ana and upon meeting him . I asked if he could take a picture holding my signature shirt at the time in front of my Store. He agreed and the rest is history, I was so honored...",
+      "ogImage": "https://assets.bigcartel.com/product_images/416242419/1000000490.jpg"
+    },
+    "/product/salute-soldier-caps": {
+      "title": "Salute Soldier Caps  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear Presents ... The Salute Soldier Caps available in Black and heather grey",
+      "ogImage": "https://assets.bigcartel.com/product_images/391907880/IMG_20240213_091703_694.jpg"
+    },
+    "/product/the-great-to-everything": {
+      "title": "The Great Challenge to Everything  | www.toughtimezgear.com",
+      "description": "Tough Timez Gear presents a 2023 edition of it's first book entitled . The Great Challenge to Everything Collection of Compelling Thoughts (Submerged in Truth)( Engaged in War) Volume 1 . The Great Challenge to everything consists of a collection of Compelling Thoughts that stem from the mind of an Author . Who...",
+      "ogImage": "https://assets.bigcartel.com/product_images/364270921/Mockup.png"
+    }
   },
   "layout": {
     "storeName": "www.toughtimezgear.com",
@@ -514,7 +821,25 @@
       "message": "Message"
     },
     "sendButton": "Send message",
-    "recaptchaNote": null
+    "recaptchaNote": [
+      {
+        "text": "Protected by reCAPTCHA. Google's "
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://policies.google.com/privacy"
+      },
+      {
+        "text": " and "
+      },
+      {
+        "text": "Terms of Service",
+        "href": "https://policies.google.com/terms"
+      },
+      {
+        "text": " apply."
+      }
+    ]
   },
   "pages": {
     "mission-statement": {
