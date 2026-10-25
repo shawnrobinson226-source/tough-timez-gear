@@ -4,6 +4,14 @@ Build: `npm run build` and `npm run lint` pass (0 errors, 0 warnings).
 Checked with `node scripts/parity-check.mjs http://localhost:3100` against a local `next start`.
 Machine-readable results: `docs/parity-results.json`.
 
+## What this check proves (and what it doesn't)
+
+The parity check compares the build against data that was itself imported from the live feed and
+live pages. A pass shows that the import dropped or altered nothing and that the pages render that
+data faithfully. It does **not** verify the editorial accuracy of the live content: typos, wrong
+prices, outdated copy or a mis-categorised product on live are reproduced here exactly as served.
+An independent pass against a preview deployment is still needed.
+
 ## Summary
 
 | Check | Result |
@@ -22,27 +30,44 @@ Machine-readable results: `docs/parity-results.json`.
 | Search sample ("salute") | 13 results, same order as live |
 | Failures | **0** |
 
+## Resolved since the first gate
+
+- **Mobile gallery thumbnails restored.** Small screens now show thumbnail buttons *and* the "1 of N"
+  counter with previous/next arrows. Clicking a thumbnail moves the main image and updates the counter
+  (checked on THE BIG SALUTE, 5 images: thumb 4 → "4 of 5", next → "5 of 5"). Desktop stays stacked
+  with no thumbnail strip, because live shows none on desktop (`docs/reference-shots/product-news-anchor-tee-1440.png`).
+- **Slideshow** now slides horizontally like live instead of fading.
+- **YouTube embed verified.** The `youtube-nocookie.com/embed/Az__nXcGUWo` iframe loads the player
+  ("What's The Story Behind The Design Episode 1…") in headless Chromium, headed Chromium and real
+  Chrome (`channel: "chrome"`, headed); no failed requests or console errors, no CSP or frame headers
+  on the local build. Evidence: `docs/build-shots/home-video-chrome-headed.png`. The blank box in the
+  full-page shots is a Playwright full-page capture limitation with cross-origin iframes, not the site.
+
 ## Visible differences from the reference shots
 
-Compared `docs/build-shots/` with `docs/reference-shots/` at 1440 and 390 px.
-
-1. **Mobile product gallery:** live shows a row of thumbnail buttons under the image; the build shows
-   the "1 of N" counter with previous/next arrows (the brief asks for the counter). Desktop is the same
-   (images stacked at natural ratio).
-2. **"You might also like":** live picks change on every load; the build uses the fixed rule
+1. **"You might also like":** live picks change on every load; the build uses the fixed rule
    (next 3 in category, then Featured order), so the products shown differ from any one live capture.
-3. **Home video:** live renders a custom player (black box with controls); the build embeds
-   `youtube-nocookie.com/embed/Az__nXcGUWo`. In headless captures the build's iframe area is blank;
-   in a normal browser it shows YouTube's player. The iframe has no `title` (live provides none to copy).
-4. **Slideshow:** live uses a sliding carousel; the build cross-fades. Frame size, natural ratios,
-   top alignment and the 3 dots match. The captured slide may differ between shots because both autoplay.
-5. **Product image zoom:** live opens images in a zoom viewer; the build has no zoom.
-6. **Cart:** footer shows "Cart (0)" and `/cart` shows the empty state; Add to cart links to the live
+2. **Home video player chrome:** live wraps the video in its own player; the build shows YouTube's
+   standard embed. The iframe has no `title` (live provides none to copy).
+3. **Product image zoom:** live opens images in a zoom viewer; the build has no zoom.
+4. **Cart:** footer shows "Cart (0)" and `/cart` shows the empty state; Add to cart links to the live
    store (TEMPORARY). Live adds items to a real cart.
-7. **Contact:** could not be compared; live is behind a Cloudflare challenge for automated browsers.
+5. **Contact:** could not be compared; live is behind a Cloudflare challenge for automated browsers.
    The "Send message" button is disabled.
-8. **Fonts:** Chewy and Permanent Marker are self-hosted via `next/font` instead of loaded from
+6. **Fonts:** Chewy and Permanent Marker are self-hosted via `next/font` instead of loaded from
    Google Fonts at runtime; glyphs are identical, line breaks can shift by a word in long names.
 
 Everything else in the four reference pages (announcement bar, header, logo size, grid of square
 tiles, tile name/price sizes, buttons, footer lists, social icons, tagline) lines up within a few pixels.
+
+## Repository size
+
+| Item | Size |
+|------|------|
+| `public/img` (627 AVIF/WebP variants + OG image) | 35.9 MB |
+| `docs/` (reference and build screenshots, reports) | 38.5 MB |
+| All new commits on this branch since `origin/build/homepage-shell`, as a git bundle | 88.0 MB |
+
+The bundle is larger than the tree because the build screenshots were captured twice. The largest
+single file is `docs/reference-shots/products-1440.png` at 8.0 MB (well under GitHub's 100 MB limit).
+Converting the screenshots to WebP or keeping them out of git would cut most of the docs weight.
