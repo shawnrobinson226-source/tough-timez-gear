@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Archived concept build; not part of the app.
+    "content-archive/**",
   ]),
 ]);
 
