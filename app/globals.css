@@ -364,7 +364,7 @@ textarea {
 .slideshow__slide {
   display: flex;
   grid-area: 1 / 1;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   opacity: 0;
   transition: opacity 0.6s ease;
