@@ -1,0 +1,50 @@
+{
+  "home-1440": {
+    "productImage": null,
+    "gridTile": 590,
+    "slideshow": 1220,
+    "logo": 421
+  },
+  "products-1440": {
+    "productImage": null,
+    "gridTile": 590,
+    "slideshow": null,
+    "logo": 421
+  },
+  "category-tshirts-1440": {
+    "productImage": null,
+    "gridTile": 590,
+    "slideshow": null,
+    "logo": 421
+  },
+  "product-news-anchor-tee-1440": {
+    "productImage": 760,
+    "gridTile": 275,
+    "slideshow": null,
+    "logo": 421
+  },
+  "home-390": {
+    "productImage": null,
+    "gridTile": 165,
+    "slideshow": 350,
+    "logo": 273.640625
+  },
+  "products-390": {
+    "productImage": null,
+    "gridTile": 165,
+    "slideshow": null,
+    "logo": 273.640625
+  },
+  "category-tshirts-390": {
+    "productImage": null,
+    "gridTile": 165,
+    "slideshow": null,
+    "logo": 273.640625
+  },
+  "product-news-anchor-tee-390": {
+    "productImage": 350,
+    "gridTile": 165,
+    "slideshow": null,
+    "logo": 273.640625
+  }
+}
