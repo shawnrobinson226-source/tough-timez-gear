@@ -1,11 +1,12 @@
 // Full-page screenshots of the key pages at 1440 and 390 px wide.
 // Usage: node scripts/capture-shots.mjs <baseUrl> <outDir>
 //   live:  node scripts/capture-shots.mjs https://www.toughtimezgear.com docs/reference-shots
-//   build: node scripts/capture-shots.mjs http://localhost:3000 docs/build-shots
+//   build: node scripts/capture-shots.mjs http://localhost:3000 docs/build-shots   (local only, git-ignored)
 // Also records rendered widths used by the low-res check (measurements.json).
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { chromium } from "playwright";
+import sharp from "sharp";
 
 const [base = "https://www.toughtimezgear.com", outDir = "docs/reference-shots"] = process.argv.slice(2);
 const PAGES = [
@@ -40,7 +41,9 @@ for (const width of WIDTHS) {
     }
     await page.evaluate(() => window.scrollTo(0, 0));
     await page.waitForTimeout(1500);
-    await page.screenshot({ path: path.join(outDir, `${name}-${width}.png`), fullPage: true });
+    // Stored as WebP (quality 80) to keep the repo small; WebP caps height at 16383 px.
+    const png = await page.screenshot({ fullPage: true });
+    await sharp(png).webp({ quality: 80 }).toFile(path.join(outDir, `${name}-${width}.webp`));
     measurements[`${name}-${width}`] = await page.evaluate(() => {
       const w = (sel) => document.querySelector(sel)?.getBoundingClientRect().width ?? null;
       return {

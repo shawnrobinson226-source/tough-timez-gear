@@ -35,12 +35,12 @@ An independent pass against a preview deployment is still needed.
 - **Mobile gallery thumbnails restored.** Small screens now show thumbnail buttons *and* the "1 of N"
   counter with previous/next arrows. Clicking a thumbnail moves the main image and updates the counter
   (checked on THE BIG SALUTE, 5 images: thumb 4 → "4 of 5", next → "5 of 5"). Desktop stays stacked
-  with no thumbnail strip, because live shows none on desktop (`docs/reference-shots/product-news-anchor-tee-1440.png`).
+  with no thumbnail strip, because live shows none on desktop (`docs/reference-shots/product-news-anchor-tee-1440.webp`).
 - **Slideshow** now slides horizontally like live instead of fading.
 - **YouTube embed verified.** The `youtube-nocookie.com/embed/Az__nXcGUWo` iframe loads the player
   ("What's The Story Behind The Design Episode 1…") in headless Chromium, headed Chromium and real
   Chrome (`channel: "chrome"`, headed); no failed requests or console errors, no CSP or frame headers
-  on the local build. Evidence: `docs/build-shots/home-video-chrome-headed.png`. The blank box in the
+  on the local build. Evidence: `docs/evidence/home-video-chrome-headed.webp`. The blank box in the
   full-page shots is a Playwright full-page capture limitation with cross-origin iframes, not the site.
 
 ## Visible differences from the reference shots
@@ -65,9 +65,11 @@ tiles, tile name/price sizes, buttons, footer lists, social icons, tagline) line
 | Item | Size |
 |------|------|
 | `public/img` (627 AVIF/WebP variants + OG image) | 35.9 MB |
-| `docs/` (reference and build screenshots, reports) | 38.5 MB |
-| All new commits on this branch since `origin/build/homepage-shell`, as a git bundle | 88.0 MB |
+| `docs/` tracked, before cleanup (PNG reference and build screenshots, reports) | 38.5 MB |
+| `docs/` tracked, after cleanup (WebP reference shots, evidence shot, reports) | 2.5 MB |
+| Push that first published this work (all new commits, as a git bundle) | 88.0 MB |
 
-The bundle is larger than the tree because the build screenshots were captured twice. The largest
-single file is `docs/reference-shots/products-1440.png` at 8.0 MB (well under GitHub's 100 MB limit).
-Converting the screenshots to WebP or keeping them out of git would cut most of the docs weight.
+On 2026-10-25 the screenshots were converted to WebP at quality 80, the PNGs removed with `git rm`,
+and `docs/build-shots/` added to `.gitignore`. Git history was not rewritten, so the old PNGs still
+sit in earlier commits; only new clones' working trees and future pushes get smaller. The largest
+tracked docs file is now `docs/reference-shots/products-1440.webp` at 0.8 MB.
