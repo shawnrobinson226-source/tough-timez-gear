@@ -33,6 +33,12 @@ for (const width of WIDTHS) {
       window.scrollTo(0, 0);
     });
     await page.waitForLoadState("networkidle", { timeout: 15000 }).catch(() => {});
+    // Lazy iframes (the home YouTube embed) need to be in view long enough to load and paint.
+    for (const frame of await page.locator("iframe").all()) {
+      await frame.scrollIntoViewIfNeeded().catch(() => {});
+      await page.waitForTimeout(4000);
+    }
+    await page.evaluate(() => window.scrollTo(0, 0));
     await page.waitForTimeout(1500);
     await page.screenshot({ path: path.join(outDir, `${name}-${width}.png`), fullPage: true });
     measurements[`${name}-${width}`] = await page.evaluate(() => {
