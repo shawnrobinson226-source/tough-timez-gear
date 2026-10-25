@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-25T11:07:22.976Z",
+  "local": "http://localhost:3100",
+  "products": {
+    "local": 42,
+    "live": 42
+  },
+  "images": {
+    "local": 89,
+    "live": 89
+  },
+  "routesChecked": 63,
+  "searchSample": {
+    "term": "salute",
+    "live": 13,
+    "local": 13,
+    "sameOrder": true
+  },
+  "failures": []
+}

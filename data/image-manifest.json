@@ -1,0 +1,4247 @@
+{
+  "generatedAt": "2026-10-25T09:54:06.559Z",
+  "note": "Largest CDN-served copies; not owner uploads.",
+  "products": {
+    "news-anchor-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/433209714/1598.png",
+        "feedWidth": 2160,
+        "feedHeight": 2160,
+        "width": 2160,
+        "height": 2160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/433209717/1596.png",
+        "feedWidth": 2160,
+        "feedHeight": 2160,
+        "width": 2160,
+        "height": 2160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/433209720/1597.png",
+        "feedWidth": 2160,
+        "feedHeight": 2160,
+        "width": 2160,
+        "height": 2160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/news-anchor-tee/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/news-anchor-tee/3-2000.webp"
+          }
+        ]
+      }
+    ],
+    "the-extraterrestrial-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/432256611/1531.png",
+        "feedWidth": 3375,
+        "feedHeight": 4219,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/432256689/1530.png",
+        "feedWidth": 3375,
+        "feedHeight": 4219,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-extraterrestrial-tee/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-extraterrestrial-tee/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "brand-logo-jump-suits": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/432143109/1527.png",
+        "feedWidth": 5976,
+        "feedHeight": 7470,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/432143103/1525.png",
+        "feedWidth": 5976,
+        "feedHeight": 7470,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/432143106/1526.png",
+        "feedWidth": 5976,
+        "feedHeight": 7470,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/brand-logo-jump-suits/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/brand-logo-jump-suits/3-2000.webp"
+          }
+        ]
+      }
+    ],
+    "salute-rugby": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/431218110/1405.png",
+        "feedWidth": 1072,
+        "feedHeight": 1058,
+        "width": 1072,
+        "height": 1058,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/1-960.webp"
+          },
+          {
+            "width": 1072,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/1-1072.avif"
+          },
+          {
+            "width": 1072,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/1-1072.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/431218113/1406.png",
+        "feedWidth": 1290,
+        "feedHeight": 1032,
+        "width": 1290,
+        "height": 1032,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/2-960.webp"
+          },
+          {
+            "width": 1290,
+            "format": "avif",
+            "src": "/img/products/salute-rugby/2-1290.avif"
+          },
+          {
+            "width": 1290,
+            "format": "webp",
+            "src": "/img/products/salute-rugby/2-1290.webp"
+          }
+        ]
+      }
+    ],
+    "life-is-tough-hoodie": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392980458/HOOD_GREY_R1.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-hoodie/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-hoodie/1-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-hoodie/1-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-hoodie/1-700.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392980455/HOOD_CREAM_R1.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-hoodie/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-hoodie/2-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-hoodie/2-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-hoodie/2-700.webp"
+          }
+        ]
+      }
+    ],
+    "tough-long-sleeve": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392985273/LONGSLEEVE_WHITE_R3.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/1-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/1-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/1-700.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/416242530/1000000538.jpg",
+        "feedWidth": 3000,
+        "feedHeight": 4000,
+        "width": 3000,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392985270/LONGSLEEVE_GREY_R3.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/3-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/tough-long-sleeve/3-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/tough-long-sleeve/3-700.webp"
+          }
+        ]
+      }
+    ],
+    "life-is-tough": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/430802520/1377.jpg",
+        "feedWidth": 1080,
+        "feedHeight": 1080,
+        "width": 1080,
+        "height": 1080,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/1-1080.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/391899600/LifeisTought+Shirt-+White+R2.jpg",
+        "feedWidth": 1020,
+        "feedHeight": 1013,
+        "width": 1020,
+        "height": 1013,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/2-960.webp"
+          },
+          {
+            "width": 1020,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/2-1020.avif"
+          },
+          {
+            "width": 1020,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/2-1020.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/391899606/LifeisTought+Shirt-+Grey+R2.jpg",
+        "feedWidth": 1020,
+        "feedHeight": 1013,
+        "width": 1020,
+        "height": 1013,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/3-960.webp"
+          },
+          {
+            "width": 1020,
+            "format": "avif",
+            "src": "/img/products/life-is-tough/3-1020.avif"
+          },
+          {
+            "width": 1020,
+            "format": "webp",
+            "src": "/img/products/life-is-tough/3-1020.webp"
+          }
+        ]
+      }
+    ],
+    "salute-pullover": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/415131273/1000000410.png",
+        "feedWidth": 1080,
+        "feedHeight": 1350,
+        "width": 1080,
+        "height": 1350,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/1-1080.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/415131288/1000000411.png",
+        "feedWidth": 1080,
+        "feedHeight": 1350,
+        "width": 1080,
+        "height": 1350,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/2-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/salute-pullover/2-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/salute-pullover/2-1080.webp"
+          }
+        ]
+      }
+    ],
+    "signature-classic-pull-over": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/416242263/1000000462.jpg",
+        "feedWidth": 3000,
+        "feedHeight": 4000,
+        "width": 3000,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393702885/IMG_20241109_093212~2.jpg",
+        "feedWidth": 3120,
+        "feedHeight": 4160,
+        "width": 3120,
+        "height": 4160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393702876/IMG_20241109_094601~2.jpg",
+        "feedWidth": 3120,
+        "feedHeight": 4160,
+        "width": 3120,
+        "height": 4160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/signature-classic-pull-over/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/signature-classic-pull-over/3-2000.webp"
+          }
+        ]
+      }
+    ],
+    "salute-windbreakers": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/416242191/1000000466.jpg",
+        "feedWidth": 3000,
+        "feedHeight": 4000,
+        "width": 3000,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393047958/GREENCAMO_R1.png",
+        "feedWidth": 600,
+        "feedHeight": 700,
+        "width": 600,
+        "height": 700,
+        "files": [
+          {
+            "width": 600,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/2-600.avif"
+          },
+          {
+            "width": 600,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/2-600.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393047961/BLACKCAMO_R1.png",
+        "feedWidth": 2048,
+        "feedHeight": 2389,
+        "width": 2048,
+        "height": 2389,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/salute-windbreakers/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/salute-windbreakers/3-2000.webp"
+          }
+        ]
+      }
+    ],
+    "letterman-classic-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/426010203/1170.png",
+        "feedWidth": 922,
+        "feedHeight": 954,
+        "width": 922,
+        "height": 954,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/1-640.webp"
+          },
+          {
+            "width": 922,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/1-922.avif"
+          },
+          {
+            "width": 922,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/1-922.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/426014337/1173.jpg",
+        "feedWidth": 2083,
+        "feedHeight": 2083,
+        "width": 2083,
+        "height": 2083,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/426014340/1174.jpg",
+        "feedWidth": 2083,
+        "feedHeight": 2083,
+        "width": 2083,
+        "height": 2083,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/letterman-classic-tee/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/letterman-classic-tee/3-2000.webp"
+          }
+        ]
+      }
+    ],
+    "letterman-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425951118/1138.png",
+        "feedWidth": 966,
+        "feedHeight": 945,
+        "width": 966,
+        "height": 945,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/1-960.webp"
+          },
+          {
+            "width": 966,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/1-966.avif"
+          },
+          {
+            "width": 966,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/1-966.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425951115/1141.png",
+        "feedWidth": 1055,
+        "feedHeight": 1059,
+        "width": 1055,
+        "height": 1059,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/2-960.webp"
+          },
+          {
+            "width": 1055,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/2-1055.avif"
+          },
+          {
+            "width": 1055,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/2-1055.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425951109/1142.jpg",
+        "feedWidth": 2083,
+        "feedHeight": 2083,
+        "width": 2083,
+        "height": 2083,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/3-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425951112/1143.jpg",
+        "feedWidth": 2083,
+        "feedHeight": 2083,
+        "width": 2083,
+        "height": 2083,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/4-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/4-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/4-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/4-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/4-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/4-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/letterman-tee/4-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/letterman-tee/4-2000.webp"
+          }
+        ]
+      }
+    ],
+    "campaign-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425407200/1053.png",
+        "feedWidth": 1080,
+        "feedHeight": 1440,
+        "width": 1080,
+        "height": 1440,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/1-1080.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425407194/1051.png",
+        "feedWidth": 1080,
+        "feedHeight": 1440,
+        "width": 1080,
+        "height": 1440,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/2-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/2-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/2-1080.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425407197/1052.png",
+        "feedWidth": 1080,
+        "feedHeight": 1440,
+        "width": 1080,
+        "height": 1440,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/3-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/campaign-tee/3-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/campaign-tee/3-1080.webp"
+          }
+        ]
+      }
+    ],
+    "brand-logo-short-set": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428649627/1276.png",
+        "feedWidth": 1080,
+        "feedHeight": 1350,
+        "width": 1080,
+        "height": 1350,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/brand-logo-short-set/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/brand-logo-short-set/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/brand-logo-short-set/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/brand-logo-short-set/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/brand-logo-short-set/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/brand-logo-short-set/1-1080.webp"
+          }
+        ]
+      }
+    ],
+    "life-is-tough-short-set": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428649552/1277.png",
+        "feedWidth": 1080,
+        "feedHeight": 1350,
+        "width": 1080,
+        "height": 1350,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-short-set/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-short-set/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-short-set/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-short-set/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/life-is-tough-short-set/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/life-is-tough-short-set/1-1080.webp"
+          }
+        ]
+      }
+    ],
+    "silhouette-shortset": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428647164/1271.png",
+        "feedWidth": 1350,
+        "feedHeight": 1688,
+        "width": 1350,
+        "height": 1688,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/silhouette-shortset/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/silhouette-shortset/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/silhouette-shortset/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/silhouette-shortset/1-960.webp"
+          },
+          {
+            "width": 1350,
+            "format": "avif",
+            "src": "/img/products/silhouette-shortset/1-1350.avif"
+          },
+          {
+            "width": 1350,
+            "format": "webp",
+            "src": "/img/products/silhouette-shortset/1-1350.webp"
+          }
+        ]
+      }
+    ],
+    "signature-classic": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/422290485/840.jpg",
+        "feedWidth": 2079,
+        "feedHeight": 2079,
+        "width": 2079,
+        "height": 2079,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/signature-classic/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/signature-classic/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/signature-classic/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/signature-classic/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/422290500/841.jpg",
+        "feedWidth": 2079,
+        "feedHeight": 2079,
+        "width": 2079,
+        "height": 2079,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/signature-classic/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/signature-classic/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/signature-classic/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/signature-classic/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "tough-timez-gear-bunch": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/418007085/1000000628.png",
+        "feedWidth": 750,
+        "feedHeight": 750,
+        "width": 750,
+        "height": 750,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-timez-gear-bunch/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-timez-gear-bunch/1-640.webp"
+          },
+          {
+            "width": 750,
+            "format": "avif",
+            "src": "/img/products/tough-timez-gear-bunch/1-750.avif"
+          },
+          {
+            "width": 750,
+            "format": "webp",
+            "src": "/img/products/tough-timez-gear-bunch/1-750.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/418007082/1000000627.png",
+        "feedWidth": 750,
+        "feedHeight": 750,
+        "width": 750,
+        "height": 750,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-timez-gear-bunch/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-timez-gear-bunch/2-640.webp"
+          },
+          {
+            "width": 750,
+            "format": "avif",
+            "src": "/img/products/tough-timez-gear-bunch/2-750.avif"
+          },
+          {
+            "width": 750,
+            "format": "webp",
+            "src": "/img/products/tough-timez-gear-bunch/2-750.webp"
+          }
+        ]
+      }
+    ],
+    "twilight-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/420110862/619.png",
+        "feedWidth": 1042,
+        "feedHeight": 1042,
+        "width": 1042,
+        "height": 1042,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/1-960.webp"
+          },
+          {
+            "width": 1042,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/1-1042.avif"
+          },
+          {
+            "width": 1042,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/1-1042.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/420146889/622.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/twilight-tee/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/twilight-tee/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "signature-classic-1": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393041265/TSHIRT_GREY_R1.png",
+        "feedWidth": 1020,
+        "feedHeight": 1013,
+        "width": 1020,
+        "height": 1013,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/1-960.webp"
+          },
+          {
+            "width": 1020,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/1-1020.avif"
+          },
+          {
+            "width": 1020,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/1-1020.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393041262/TSHIRT_WHITE__R1.png",
+        "feedWidth": 1020,
+        "feedHeight": 1013,
+        "width": 1020,
+        "height": 1013,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/2-960.webp"
+          },
+          {
+            "width": 1020,
+            "format": "avif",
+            "src": "/img/products/signature-classic-1/2-1020.avif"
+          },
+          {
+            "width": 1020,
+            "format": "webp",
+            "src": "/img/products/signature-classic-1/2-1020.webp"
+          }
+        ]
+      }
+    ],
+    "signature-long-sleeve": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393041508/LONG_SLEEVE_BLUE__R1.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-long-sleeve/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-long-sleeve/1-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/signature-long-sleeve/1-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/signature-long-sleeve/1-700.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/393041505/LONG_SLEEVE_WHITE__R1.png",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/signature-long-sleeve/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/signature-long-sleeve/2-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/signature-long-sleeve/2-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/signature-long-sleeve/2-700.webp"
+          }
+        ]
+      }
+    ],
+    "salute-bucket-hat": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421588812/807.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-bucket-hat/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-bucket-hat/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-bucket-hat/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-bucket-hat/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-bucket-hat/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-bucket-hat/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/salute-bucket-hat/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/salute-bucket-hat/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "letterman-20": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425977401/1158.jpg",
+        "feedWidth": 750,
+        "feedHeight": 750,
+        "width": 750,
+        "height": 750,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-20/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-20/1-640.webp"
+          },
+          {
+            "width": 750,
+            "format": "avif",
+            "src": "/img/products/letterman-20/1-750.avif"
+          },
+          {
+            "width": 750,
+            "format": "webp",
+            "src": "/img/products/letterman-20/1-750.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425977407/1156.jpg",
+        "feedWidth": 750,
+        "feedHeight": 750,
+        "width": 750,
+        "height": 750,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-20/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-20/2-640.webp"
+          },
+          {
+            "width": 750,
+            "format": "avif",
+            "src": "/img/products/letterman-20/2-750.avif"
+          },
+          {
+            "width": 750,
+            "format": "webp",
+            "src": "/img/products/letterman-20/2-750.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/425977404/1157.jpg",
+        "feedWidth": 750,
+        "feedHeight": 750,
+        "width": 750,
+        "height": 750,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/letterman-20/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/letterman-20/3-640.webp"
+          },
+          {
+            "width": 750,
+            "format": "avif",
+            "src": "/img/products/letterman-20/3-750.avif"
+          },
+          {
+            "width": 750,
+            "format": "webp",
+            "src": "/img/products/letterman-20/3-750.webp"
+          }
+        ]
+      }
+    ],
+    "the-big-captain-cap": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421588473/811.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421588470/809.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-captain-cap/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-captain-cap/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "ttg-shortset": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428646936/1273.png",
+        "feedWidth": 1350,
+        "feedHeight": 1688,
+        "width": 1350,
+        "height": 1688,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/ttg-shortset/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/ttg-shortset/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/ttg-shortset/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/ttg-shortset/1-960.webp"
+          },
+          {
+            "width": 1350,
+            "format": "avif",
+            "src": "/img/products/ttg-shortset/1-1350.avif"
+          },
+          {
+            "width": 1350,
+            "format": "webp",
+            "src": "/img/products/ttg-shortset/1-1350.webp"
+          }
+        ]
+      }
+    ],
+    "double-t-shortset": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428647383/1270.png",
+        "feedWidth": 1350,
+        "feedHeight": 1688,
+        "width": 1350,
+        "height": 1688,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/double-t-shortset/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/double-t-shortset/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/double-t-shortset/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/double-t-shortset/1-960.webp"
+          },
+          {
+            "width": 1350,
+            "format": "avif",
+            "src": "/img/products/double-t-shortset/1-1350.avif"
+          },
+          {
+            "width": 1350,
+            "format": "webp",
+            "src": "/img/products/double-t-shortset/1-1350.webp"
+          }
+        ]
+      }
+    ],
+    "salute-shortset": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/428647107/1272.png",
+        "feedWidth": 1350,
+        "feedHeight": 1688,
+        "width": 1350,
+        "height": 1688,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-shortset/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-shortset/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-shortset/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-shortset/1-960.webp"
+          },
+          {
+            "width": 1350,
+            "format": "avif",
+            "src": "/img/products/salute-shortset/1-1350.avif"
+          },
+          {
+            "width": 1350,
+            "format": "webp",
+            "src": "/img/products/salute-shortset/1-1350.webp"
+          }
+        ]
+      }
+    ],
+    "2-for-30-summer-deal-1": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/426389571/1195.png",
+        "feedWidth": 3375,
+        "feedHeight": 4219,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/2-for-30-summer-deal-1/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/2-for-30-summer-deal-1/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/2-for-30-summer-deal-1/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/2-for-30-summer-deal-1/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/2-for-30-summer-deal-1/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/2-for-30-summer-deal-1/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/2-for-30-summer-deal-1/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/2-for-30-summer-deal-1/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "2-for-60-summer-deal-2": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/426390579/1198.png",
+        "feedWidth": 3375,
+        "feedHeight": 4219,
+        "width": 3200,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/2-for-60-summer-deal-2/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/2-for-60-summer-deal-2/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/2-for-60-summer-deal-2/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/2-for-60-summer-deal-2/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/2-for-60-summer-deal-2/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/2-for-60-summer-deal-2/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/2-for-60-summer-deal-2/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/2-for-60-summer-deal-2/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "heatwave-shorts": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421327218/798.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421327215/799.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/heatwave-shorts/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/heatwave-shorts/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "the-big-salute": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421281633/781.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421281630/782.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/420855105/727.png",
+        "feedWidth": 4861,
+        "feedHeight": 6250,
+        "width": 3200,
+        "height": 4114,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/3-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/420855102/728.png",
+        "feedWidth": 4861,
+        "feedHeight": 6250,
+        "width": 3200,
+        "height": 4114,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/4-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/4-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/4-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/4-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/4-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/4-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/4-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/4-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/420855108/726.png",
+        "feedWidth": 4861,
+        "feedHeight": 6250,
+        "width": 3200,
+        "height": 4114,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/5-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/5-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/5-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/5-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/5-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/5-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-big-salute/5-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-big-salute/5-2000.webp"
+          }
+        ]
+      }
+    ],
+    "tough-luv-logo-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/411498870/1000000287.png",
+        "feedWidth": 3889,
+        "feedHeight": 3889,
+        "width": 3200,
+        "height": 3200,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/411498873/1000000286.png",
+        "feedWidth": 3889,
+        "feedHeight": 3889,
+        "width": 3200,
+        "height": 3200,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/tough-luv-logo-tee/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/tough-luv-logo-tee/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "big-salute-shorts": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421214187/772.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/421214184/773.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/big-salute-shorts/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/big-salute-shorts/2-2000.webp"
+          }
+        ]
+      }
+    ],
+    "winnie-mandela": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/408743316/1000000137.png",
+        "feedWidth": 614,
+        "feedHeight": 960,
+        "width": 614,
+        "height": 960,
+        "files": [
+          {
+            "width": 614,
+            "format": "avif",
+            "src": "/img/products/winnie-mandela/1-614.avif"
+          },
+          {
+            "width": 614,
+            "format": "webp",
+            "src": "/img/products/winnie-mandela/1-614.webp"
+          }
+        ]
+      }
+    ],
+    "famous-santa-ana-tee": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/423500715/884.jpg",
+        "feedWidth": 2048,
+        "feedHeight": 1536,
+        "width": 2048,
+        "height": 1536,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/famous-santa-ana-tee/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/famous-santa-ana-tee/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/famous-santa-ana-tee/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/famous-santa-ana-tee/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/famous-santa-ana-tee/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/famous-santa-ana-tee/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/famous-santa-ana-tee/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/famous-santa-ana-tee/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "98-chaos-kid": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/422538780/862.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/98-chaos-kid/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/98-chaos-kid/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/98-chaos-kid/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/98-chaos-kid/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/98-chaos-kid/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/98-chaos-kid/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/98-chaos-kid/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/98-chaos-kid/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "the-eyes-never-lie": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/418805985/509.png",
+        "feedWidth": 3375,
+        "feedHeight": 4500,
+        "width": 3200,
+        "height": 4266,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-eyes-never-lie/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-eyes-never-lie/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-eyes-never-lie/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-eyes-never-lie/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-eyes-never-lie/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-eyes-never-lie/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-eyes-never-lie/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-eyes-never-lie/1-2000.webp"
+          }
+        ]
+      }
+    ],
+    "retro-gary": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392935125/Gary+Colman+_Instagram+Post_+gray-1.png",
+        "feedWidth": 1080,
+        "feedHeight": 1080,
+        "width": 1080,
+        "height": 1080,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/retro-gary/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/retro-gary/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/retro-gary/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/retro-gary/1-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/retro-gary/1-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/retro-gary/1-1080.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392935122/Gary+Colman+_Instagram+Post_+white-1.png",
+        "feedWidth": 1080,
+        "feedHeight": 1080,
+        "width": 1080,
+        "height": 1080,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/retro-gary/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/retro-gary/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/retro-gary/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/retro-gary/2-960.webp"
+          },
+          {
+            "width": 1080,
+            "format": "avif",
+            "src": "/img/products/retro-gary/2-1080.avif"
+          },
+          {
+            "width": 1080,
+            "format": "webp",
+            "src": "/img/products/retro-gary/2-1080.webp"
+          }
+        ]
+      }
+    ],
+    "ttg-cargo-joggers": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/416242707/1000000485.jpg",
+        "feedWidth": 3000,
+        "feedHeight": 4000,
+        "width": 3000,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392911509/IMG_20241027_130618.jpg",
+        "feedWidth": 2946,
+        "feedHeight": 4037,
+        "width": 2946,
+        "height": 4037,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392911518/IMG_20241027_131208.jpg",
+        "feedWidth": 3120,
+        "feedHeight": 4160,
+        "width": 3120,
+        "height": 4160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/3-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/392911512/IMG_20241027_130834.jpg",
+        "feedWidth": 3120,
+        "feedHeight": 4160,
+        "width": 3120,
+        "height": 4160,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/4-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/4-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/4-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/4-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/4-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/4-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/ttg-cargo-joggers/4-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/ttg-cargo-joggers/4-2000.webp"
+          }
+        ]
+      }
+    ],
+    "bandana-p": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/416242419/1000000490.jpg",
+        "feedWidth": 3000,
+        "feedHeight": 4000,
+        "width": 3000,
+        "height": 4000,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/bandana-p/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/bandana-p/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/bandana-p/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/bandana-p/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/bandana-p/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/bandana-p/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/bandana-p/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/bandana-p/1-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/412467237/CLASSIC_LONGSLEEVE_WHITE__2.jpg",
+        "feedWidth": 700,
+        "feedHeight": 700,
+        "width": 700,
+        "height": 700,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/bandana-p/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/bandana-p/2-640.webp"
+          },
+          {
+            "width": 700,
+            "format": "avif",
+            "src": "/img/products/bandana-p/2-700.avif"
+          },
+          {
+            "width": 700,
+            "format": "webp",
+            "src": "/img/products/bandana-p/2-700.webp"
+          }
+        ]
+      }
+    ],
+    "salute-soldier-caps": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/391907880/IMG_20240213_091703_694.jpg",
+        "feedWidth": 963,
+        "feedHeight": 963,
+        "width": 963,
+        "height": 963,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/1-960.webp"
+          },
+          {
+            "width": 963,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/1-963.avif"
+          },
+          {
+            "width": 963,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/1-963.webp"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/4cef2677-03d4-402c-b2bf-979285448251/1000001138.jpg",
+        "feedWidth": 4000,
+        "feedHeight": 3000,
+        "width": 3200,
+        "height": 2400,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/2-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/2-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/2-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/2-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/2-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/2-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/2-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/2-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/37fc5b1a-8835-4594-8c3a-146eb7ada312/1000001135.jpg",
+        "feedWidth": 4000,
+        "feedHeight": 3000,
+        "width": 3200,
+        "height": 2400,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/3-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/3-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/3-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/3-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/3-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/3-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/3-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/3-2000.webp"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/baaa78f4-c4df-4c8e-9f46-57d10d1bd97f/1000001111.jpg",
+        "feedWidth": 1280,
+        "feedHeight": 960,
+        "width": 1280,
+        "height": 960,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/4-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/4-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/4-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/4-960.webp"
+          },
+          {
+            "width": 1280,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/4-1280.avif"
+          },
+          {
+            "width": 1280,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/4-1280.webp"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/2abb5420-5056-4a2e-b8bf-c329258496cb/1000001131.jpg",
+        "feedWidth": 1944,
+        "feedHeight": 1519,
+        "width": 1944,
+        "height": 1519,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/5-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/5-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/5-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/5-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/5-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/5-1440.webp"
+          },
+          {
+            "width": 1944,
+            "format": "avif",
+            "src": "/img/products/salute-soldier-caps/5-1944.avif"
+          },
+          {
+            "width": 1944,
+            "format": "webp",
+            "src": "/img/products/salute-soldier-caps/5-1944.webp"
+          }
+        ]
+      }
+    ],
+    "the-great-to-everything": [
+      {
+        "index": 1,
+        "source": "cdn-derived",
+        "sourceUrl": "https://assets.bigcartel.com/product_images/364270921/Mockup.png",
+        "feedWidth": 3840,
+        "feedHeight": 2160,
+        "width": 3200,
+        "height": 1800,
+        "files": [
+          {
+            "width": 640,
+            "format": "avif",
+            "src": "/img/products/the-great-to-everything/1-640.avif"
+          },
+          {
+            "width": 640,
+            "format": "webp",
+            "src": "/img/products/the-great-to-everything/1-640.webp"
+          },
+          {
+            "width": 960,
+            "format": "avif",
+            "src": "/img/products/the-great-to-everything/1-960.avif"
+          },
+          {
+            "width": 960,
+            "format": "webp",
+            "src": "/img/products/the-great-to-everything/1-960.webp"
+          },
+          {
+            "width": 1440,
+            "format": "avif",
+            "src": "/img/products/the-great-to-everything/1-1440.avif"
+          },
+          {
+            "width": 1440,
+            "format": "webp",
+            "src": "/img/products/the-great-to-everything/1-1440.webp"
+          },
+          {
+            "width": 2000,
+            "format": "avif",
+            "src": "/img/products/the-great-to-everything/1-2000.avif"
+          },
+          {
+            "width": 2000,
+            "format": "webp",
+            "src": "/img/products/the-great-to-everything/1-2000.webp"
+          }
+        ]
+      }
+    ]
+  },
+  "site": {
+    "logo": {
+      "source": "cdn-derived",
+      "sourceUrl": "https://assets.bigcartel.com/theme_images/167911374/1408.png",
+      "width": 930,
+      "height": 529,
+      "files": [
+        {
+          "width": 640,
+          "format": "avif",
+          "src": "/img/site/logo-640.avif"
+        },
+        {
+          "width": 640,
+          "format": "webp",
+          "src": "/img/site/logo-640.webp"
+        },
+        {
+          "width": 930,
+          "format": "avif",
+          "src": "/img/site/logo-930.avif"
+        },
+        {
+          "width": 930,
+          "format": "webp",
+          "src": "/img/site/logo-930.webp"
+        }
+      ]
+    },
+    "slideshow-1": {
+      "source": "cdn-derived",
+      "sourceUrl": "https://assets.bigcartel.com/theme_images/168927234/1584.png",
+      "width": 3151,
+      "height": 2311,
+      "files": [
+        {
+          "width": 640,
+          "format": "avif",
+          "src": "/img/site/slideshow-1-640.avif"
+        },
+        {
+          "width": 640,
+          "format": "webp",
+          "src": "/img/site/slideshow-1-640.webp"
+        },
+        {
+          "width": 960,
+          "format": "avif",
+          "src": "/img/site/slideshow-1-960.avif"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "src": "/img/site/slideshow-1-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "avif",
+          "src": "/img/site/slideshow-1-1440.avif"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "src": "/img/site/slideshow-1-1440.webp"
+        },
+        {
+          "width": 2000,
+          "format": "avif",
+          "src": "/img/site/slideshow-1-2000.avif"
+        },
+        {
+          "width": 2000,
+          "format": "webp",
+          "src": "/img/site/slideshow-1-2000.webp"
+        }
+      ]
+    },
+    "slideshow-2": {
+      "source": "cdn-derived",
+      "sourceUrl": "https://assets.bigcartel.com/theme_images/168068859/1533.png",
+      "width": 2385,
+      "height": 4140,
+      "files": [
+        {
+          "width": 640,
+          "format": "avif",
+          "src": "/img/site/slideshow-2-640.avif"
+        },
+        {
+          "width": 640,
+          "format": "webp",
+          "src": "/img/site/slideshow-2-640.webp"
+        },
+        {
+          "width": 960,
+          "format": "avif",
+          "src": "/img/site/slideshow-2-960.avif"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "src": "/img/site/slideshow-2-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "avif",
+          "src": "/img/site/slideshow-2-1440.avif"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "src": "/img/site/slideshow-2-1440.webp"
+        },
+        {
+          "width": 2000,
+          "format": "avif",
+          "src": "/img/site/slideshow-2-2000.avif"
+        },
+        {
+          "width": 2000,
+          "format": "webp",
+          "src": "/img/site/slideshow-2-2000.webp"
+        }
+      ]
+    },
+    "slideshow-3": {
+      "source": "cdn-derived",
+      "sourceUrl": "https://assets.bigcartel.com/theme_images/167935227/1505.png",
+      "width": 3200,
+      "height": 3406,
+      "files": [
+        {
+          "width": 640,
+          "format": "avif",
+          "src": "/img/site/slideshow-3-640.avif"
+        },
+        {
+          "width": 640,
+          "format": "webp",
+          "src": "/img/site/slideshow-3-640.webp"
+        },
+        {
+          "width": 960,
+          "format": "avif",
+          "src": "/img/site/slideshow-3-960.avif"
+        },
+        {
+          "width": 960,
+          "format": "webp",
+          "src": "/img/site/slideshow-3-960.webp"
+        },
+        {
+          "width": 1440,
+          "format": "avif",
+          "src": "/img/site/slideshow-3-1440.avif"
+        },
+        {
+          "width": 1440,
+          "format": "webp",
+          "src": "/img/site/slideshow-3-1440.webp"
+        },
+        {
+          "width": 2000,
+          "format": "avif",
+          "src": "/img/site/slideshow-3-2000.avif"
+        },
+        {
+          "width": 2000,
+          "format": "webp",
+          "src": "/img/site/slideshow-3-2000.webp"
+        }
+      ]
+    },
+    "og-image": {
+      "source": "cdn-derived",
+      "sourceUrl": "https://assets.bigcartel.com/account_images/8133498/1408.png",
+      "width": 930,
+      "height": 529,
+      "files": [
+        {
+          "width": 930,
+          "height": 529,
+          "format": "png",
+          "src": "/img/site/og-image.png"
+        }
+      ]
+    }
+  }
+}

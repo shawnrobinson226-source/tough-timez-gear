@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# image copies downloaded by scripts/fetch-images.mjs (kept outside the repo)
+ttg-image-originals/
+
+# Local build screenshots from scripts/capture-shots.mjs (not tracked)
+docs/build-shots/
