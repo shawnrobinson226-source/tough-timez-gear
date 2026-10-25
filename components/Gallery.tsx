@@ -5,9 +5,19 @@ import Picture from "@/components/Picture";
 import { ArrowLeft, ArrowRight } from "@/components/Icons";
 import type { PictureData } from "@/lib/images";
 
-// Product images: stacked at natural ratio on desktop, a swipeable carousel with an
-// "N of M" counter on small screens (as live).
-export default function Gallery({ name, images, of }: { name: string; images: PictureData[]; of: string }) {
+// Product images: stacked at natural ratio on desktop; on small screens a swipeable
+// carousel with thumbnail buttons and an "N of M" counter (as live).
+export default function Gallery({
+  name,
+  images,
+  thumbs,
+  of,
+}: {
+  name: string;
+  images: PictureData[];
+  thumbs: PictureData[];
+  of: string;
+}) {
   const listRef = useRef<HTMLDivElement>(null);
   const [current, setCurrent] = useState(0);
 
@@ -33,17 +43,30 @@ export default function Gallery({ name, images, of }: { name: string; images: Pi
           </div>
         ))}
       </div>
-      <div className="gallery__controls">
-        <button className="icon-button" aria-label="View previous image" onClick={() => go(current - 1)}>
-          <ArrowLeft />
-        </button>
-        <div>
-          <span>{current + 1}</span> {of} {images.length}
-        </div>
-        <button className="icon-button" aria-label="View next image" onClick={() => go(current + 1)}>
-          <ArrowRight />
-        </button>
-      </div>
+      {images.length > 1 && (
+        <>
+          <ul className="gallery__thumbs">
+            {thumbs.map((thumb, i) => (
+              <li key={i} className="gallery__thumb" aria-current={i === current ? "true" : undefined}>
+                <button type="button" aria-label={`View image ${i + 1} ${of} ${images.length}`} onClick={() => go(i)}>
+                  <Picture data={thumb} />
+                </button>
+              </li>
+            ))}
+          </ul>
+          <div className="gallery__controls">
+            <button className="icon-button" aria-label="View previous image" onClick={() => go(current - 1)}>
+              <ArrowLeft />
+            </button>
+            <div>
+              <span>{current + 1}</span> {of} {images.length}
+            </div>
+            <button className="icon-button" aria-label="View next image" onClick={() => go(current + 1)}>
+              <ArrowRight />
+            </button>
+          </div>
+        </>
+      )}
     </div>
   );
 }

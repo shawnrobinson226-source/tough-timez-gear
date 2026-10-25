@@ -35,9 +35,11 @@ export default async function ProductPage({ params }: PageProps<"/product/[slug]
   if (!product) notFound();
   const text = site.product;
   const comingSoon = product.status === "coming-soon";
-  const images = productImages(product.slug).map((img, i) =>
+  const manifestImages = productImages(product.slug);
+  const images = manifestImages.map((img, i) =>
     pictureData(img, { alt: `Image ${i + 1} of ${product.name}`, sizes: "(min-width: 801px) 60vw, 100vw" }),
   );
+  const thumbs = manifestImages.map((img) => pictureData(img, { alt: "", sizes: "120px" }));
 
   return (
     <>
@@ -53,7 +55,7 @@ export default async function ProductPage({ params }: PageProps<"/product/[slug]
         )}
       </nav>
       <div className="product">
-        <Gallery name={product.name} images={images} of={text.counterOf} />
+        <Gallery name={product.name} images={images} thumbs={thumbs} of={text.counterOf} />
         <section className="product-detail">
           <div>
             <h1 className="product-detail__title">{product.name}</h1>
